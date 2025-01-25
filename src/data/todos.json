@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        {
+            "id": "1",
+            "text": "learn next.js for 3 hours"
+        },
+        {   
+            "id":"2",
+            "text":"go to the gym"
+        }
+    ]
+}
